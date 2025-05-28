@@ -39,8 +39,6 @@ mvn clean install
 mvn spring-boot:run
 ```
 
-L'applicazione sarà disponibile su:
-
 ---
 
 ## Accesso alla documentazione Swagger
