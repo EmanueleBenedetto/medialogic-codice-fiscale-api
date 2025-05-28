@@ -20,7 +20,7 @@ L’API è consultabile anche tramite **Swagger UI**.
 
 ```bash
 git clone https://github.com/EmanueleBenedetto/medialogic-codice-fiscale-api.git
-cd codicefiscale-api
+cd medialogic-codice-fiscale-api
 ```
 
 ---
@@ -40,10 +40,6 @@ mvn spring-boot:run
 ```
 
 L'applicazione sarà disponibile su:
-
-```
-http://localhost:8080
-```
 
 ---
 
